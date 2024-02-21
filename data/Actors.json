@@ -1,0 +1,14 @@
+[
+null,
+{"id":1,"battlerName":"Felix","characterIndex":0,"characterName":"Felix","classId":1,"equips":[45,0,0,0,0],"faceIndex":0,"faceName":"Felix","traits":[],"initialLevel":1,"maxLevel":99,"name":"Felix","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"Skylar","characterIndex":0,"characterName":"Skylar","classId":2,"equips":[8,0,0,0,0],"faceIndex":0,"faceName":"Skylar","traits":[],"initialLevel":1,"maxLevel":99,"name":"Skylar","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"Cleo","characterIndex":0,"characterName":"Cleo","classId":6,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Cleo","traits":[],"initialLevel":1,"maxLevel":99,"name":"Cleo","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"Jupiter","characterIndex":0,"characterName":"Jupiter","classId":5,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Jupiter","traits":[],"initialLevel":1,"maxLevel":99,"name":"Jupiter","nickname":"","note":"","profile":""},
+{"id":5,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":6,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":7,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":8,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":9,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"Empty (Intro)","nickname":"","note":"","profile":""},
+{"id":10,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":11,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""}
+]
